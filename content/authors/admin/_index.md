@@ -1,13 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: Xuhui Zhan 占徐辉
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xuhui
+last_name: Zhan
 
 # Status emoji
 status:
@@ -17,74 +16,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Vanderbilt University
+    url: https://www.vanderbilt.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dream is 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Natural Language Understanding
+  - Neural-Symbolic AI
+  - AI4Science
+  - Quantum Computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+    - course: MSc in Data Science
+      institution: Vanderbilt University
+      year: 2023-Present
+    - course: BSc in Data Science
+      institution: BNU-HKBU United International College
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,32 +51,33 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: mailto:xuhui.zhan@vanderbilt.edu
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/xuhuizhan5
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/danielzhandatascience/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Daniel_Zhan_Resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
+
+Xuhui Zhan, a first-year Master's student in Data Science at Vanderbilt University and a professional research assistant there, embarked on his data science journey during undergraduate studies. This early foundation set the stage for his professional and academic growth.
+
+Formerly an algorithm engineer, Xuhui specialized in automating AGV robots and developing machine learning systems for cargo data. This role deepened his practical insights into data science applications.
+
+In his current academic pursuit, Xuhui focuses on deep learning areas like computer vision, NLP, and generative AI. His passion lies in creating machines that can understand the world and perform complex, multi-modal tasks. His ultimate goal is ambitious: to enable machines to dream, emulating one of humanity's most profound abilities.
+
+Driven by the principle that “Any sufficiently advanced technology is indistinguishable from magic,” Xuhui aims to transcend the boundaries of technology, merging the real with the fantastical. He seeks to deepen his data science expertise, contributing to innovations that turn today’s science fiction into tomorrow's reality.
