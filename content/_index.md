@@ -71,8 +71,8 @@ sections:
           company_url: ''
           company_logo: org-v
           location: Nashville, Tennessee
-          date_start: '2022-08-20'
-          date_end: '2022-10-02'
+          date_start: '2023-08-20'
+          date_end: '2023-10-02'
           description: Tutor statistics and grade homework in Econometrics I for Master of Finance Students
     design:
       columns: '2'
